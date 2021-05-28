@@ -1,4 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> I'm Reeve
+### Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> I'm Reeve 😎
+
+<hr/>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
@@ -11,8 +13,9 @@
 - 🌱 &nbsp; Enthusiast in developing an interactive and beautiful website .
 - 🇰🇷 &nbsp; Love Korean stuff and i'm a proud WIZ*ONE a fans of korean girlgrup named IZ*ONE.
 
-<h3>🛠 Tech Stack</h3>
 
+
+<h3>🛠 Tech Stack</h3>
 
 <table>
   <tbody>
@@ -45,5 +48,6 @@
 </table>
 <hr/>
 
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" />
 <h3>Profile Visitor</h3>
 <img height="54px" src="https://profile-counter.glitch.me/zynth17/count.svg">
