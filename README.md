@@ -1,7 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> I'm Reeve 😎
-
+##### Made with ❤️ by [Christopher Reeve](https://github.com/zynth17)
 <hr/>
 
+### *Find me on*
+
+
+[<img src="https://img.shields.io/badge/gmail-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:reeveworkmail@gmail.com) [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hi_reeve) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hi-reeve/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/hi_reeve) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/christoper.reeve.5) [<img src ="https://img.shields.io/badge/Website-Creeve.me-blue.svg?&style=for-the-badge">](https://creeve.me/)  ![Visits Badge](https://badges.pufler.dev/visits/zynth17/zynth17?style=for-the-badge ) [![Commits Badge](https://badges.pufler.dev/commits/monthly/zynth17?&style=for-the-badge)](https://badges.pufler.dev)
+
+<br/>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -13,10 +19,9 @@
 - 🌱 &nbsp; Enthusiast in developing an interactive and beautiful User Interface .
 -  &nbsp;🇰🇷  &nbsp; Love Korean stuff and i'm a proud WIZ&#42;ONE a fans of korean girlgrup named IZ&#42;ONE.
 
-![Profile views](https://gpvc.arturio.dev/zynth17)  <img src="https://img.shields.io/github/followers/zynth17?label=Follow" style=" float:left, margin-right:10px" />
 
 <br/>
-<h3>🛠 Tech Stack</h3>
+<h3>💻 My Tech Stack</h3>
 
 <table>
   <tbody>
