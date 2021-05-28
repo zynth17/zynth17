@@ -14,7 +14,7 @@
 -  &nbsp;🇰🇷  &nbsp; Love Korean stuff and i'm a proud WIZ&#42;ONE a fans of korean girlgrup named IZ&#42;ONE.
 
 ![Profile views](https://gpvc.arturio.dev/zynth17)  <img src="https://img.shields.io/github/followers/zynth17?label=Follow" style=" float:left, margin-right:10px" />
-<hr/>
+
 <br/>
 <h3>🛠 Tech Stack</h3>
 
@@ -121,20 +121,13 @@
     </tr>
   </tbody>
 </table>
-<hr/>
-
-
+<br/>
+<h3>✈️ My Journey Stats</h3>
 <a href="https://github.com/zynth17">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zynth17&theme=tokyonight&show_icons=true" align="left" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynth17&theme=tokyonight&layout=compact" />
 </a>
-
 <br/><br/>
-<a href="https://github.com/ip-address-tracker" style=" float:left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zynth17&repo=ip-address-tracker&theme=tokyonight"/>
-</a>
-<a href="https://github.com/todo-app-frontend-mentor" style=" float:right; margin-left:10px">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zynth17&repo=todo-app-frontend-mentor&theme=tokyonight" />
-</a>
+<img height="140em" src="https://github-readme-stats.vercel.app/api/wakatime?username=zynth17&theme=tokyonight" align="center" />
 <br/><br/>
 <img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" />
