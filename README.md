@@ -10,7 +10,7 @@
 <br/>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> <img src="" width="24" /> About Me </h3>
+<h3> <img src="268-avatar-man-outline.gif" width="32" /> About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Svelte
 - 🤔 &nbsp; Exploring new technologies and frontend stack.
