@@ -10,9 +10,9 @@
 <br/>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> <img src="" width="24" /> About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Python and Docker
+- 🔭 &nbsp; I’m currently learning Svelte
 - 🤔 &nbsp; Exploring new technologies and frontend stack.
 - 🎓 &nbsp; Studying Computer Science, and UI/UX design.
 - 💼 &nbsp; Front-End developer / (Full-Stack Developer).
