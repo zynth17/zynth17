@@ -130,11 +130,11 @@
 </a>
 
 <br/><br/>
-<a href="https://github.com/ip-address-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zynth17&repo=ip-address-tracker&theme=tokyonight" align="left" />
+<a href="https://github.com/ip-address-tracker" style=" float:left">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zynth17&repo=ip-address-tracker&theme=tokyonight"/>
 </a>
-<a href="https://github.com/todo-app-frontend-mentor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zynth17&repo=todo-app-frontend-mentor&theme=tokyonight" align="right" />
+<a href="https://github.com/todo-app-frontend-mentor" style=" float:right; margin-left:10px">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zynth17&repo=todo-app-frontend-mentor&theme=tokyonight" />
 </a>
 <br/><br/>
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" />
+<img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" />
