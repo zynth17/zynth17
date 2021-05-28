@@ -129,8 +129,8 @@
 <br/>
 <h3>✈️ My Journey Stats</h3>
 <a href="https://github.com/zynth17">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=zynth17&theme=tokyonight&show_icons=true" align="left" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynth17&theme=tokyonight&layout=compact" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zynth17&theme=tokyonight&show_icons=true" align="left" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynth17&theme=tokyonight&layout=compact" />
 </a>
 <br/><br/>
 <img height="120em" src="https://github-readme-stats.vercel.app/api/wakatime?username=zynth17&theme=tokyonight" align="center" />
