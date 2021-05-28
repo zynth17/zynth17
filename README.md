@@ -135,7 +135,7 @@
 </a>
 <br/><br/>
 <a href="https://github.com/todo-app-frontend-mentor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zynth17&repo=todo-app-frontend-mentor&theme=tokyonight" align="left" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zynth17&repo=todo-app-frontend-mentor&theme=tokyonight" align="right" />
 </a>
 
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" />
