@@ -33,12 +33,25 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
+        <span><strong>Typescript</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
         <span><strong>React</strong>
         </span><br><br><br>
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
-    </tr>
-    <tr valign="top">
+      <td width="25%" align="center">
+        <span><strong>Next JS</strong>
+        </span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><strong>Vue</strong></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
       <td width="25%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
