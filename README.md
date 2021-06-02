@@ -133,6 +133,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynth17&theme=tokyonight&layout=compact" />
 </a>
 <br/><br/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/wakatime?username=zynth17" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=zynth17" align="center" />
 <br/><br/>
 <img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" />
