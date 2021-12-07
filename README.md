@@ -10,10 +10,9 @@
 <br/>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> <img src="268-avatar-man-outline.gif" width="32" /> About Me </h3>
+<h3>About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Svelte
-- 🤔 &nbsp; Exploring new technologies and frontend stack.
+- ❤️ &nbsp; Exploring new technologies and frontend stack.
 - 🎓 &nbsp; Studying Computer Science, and UI/UX design.
 - 💼 &nbsp; Front-End developer / (Full-Stack Developer).
 - 🌱 &nbsp; Enthusiast in developing an interactive and beautiful User Interface .
