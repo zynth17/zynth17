@@ -138,22 +138,21 @@
 <br/>
 <h3>✈️ My Journey Stats</h3>
 
+|  |  |
+|--|--|
+| [![trophy](https://github-profile-trophy.vercel.app/?username=zynth17)](https://github.com/ryo-ma/github-profile-trophy)   |  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zynth17)  |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zynth17)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zynth17)  
 
-![GitHub metrics](https://metrics.lecoq.io/zynth17)  
+![contributions](https://user-images.githubusercontent.com/45350572/168953641-3220adf4-5034-4b1b-8708-14ef2459d1d0.png)
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zynth17)  
 
-[![Christopher Reeve StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11934267)](https://stackoverflow.com/users/11934267/christopher-reeve)
 
-<a href="https://github.com/zynth17">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zynth17&theme=tokyonight&show_icons=true" align="left" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynth17&theme=tokyonight&layout=compact" />
-</a>
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=zynth17&custom_title=My%20Coding%20Stats%20This%20Week" align="center" />
-<br/><br/>
-<img align='center' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" />
+|  |  |
+|--|--|
+| ![GitHub metrics](https://metrics.lecoq.io/zynth17)   |  [![Christopher Reeve StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11934267)](https://stackoverflow.com/users/11934267/christopher-reeve)   |
+
+|  |  |  |
+|--|--|--|
+| ![Readme Stats](https://github-readme-stats.vercel.app/api?username=zynth17&theme=tokyonight&show_icons=true)  |  ![Readme Stats compact](https://github-readme-stats.vercel.app/api/top-langs/?username=zynth17&theme=tokyonight&layout=compact)  | ![Readme Stats Weekly](https://github-readme-stats.vercel.app/api/wakatime?username=zynth17&custom_title=My%20Coding%20Stats%20This%20Week)
