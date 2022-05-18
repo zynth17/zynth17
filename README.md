@@ -175,3 +175,5 @@
 |  |  |  |
 |--|--|--|
 | ![Readme Stats](https://github-readme-stats.vercel.app/api?username=zynth17&theme=tokyonight&show_icons=true)  |  ![Readme Stats compact](https://github-readme-stats.vercel.app/api/top-langs/?username=zynth17&theme=tokyonight&layout=compact)  | ![Readme Stats Weekly](https://github-readme-stats.vercel.app/api/wakatime?username=zynth17&custom_title=My%20Coding%20Stats%20This%20Week)
+
+![Github Contribution Snake Game](https://raw.githubusercontent.com/zynth17/zynth17/output/github-contribution-grid-snake-dark.svg)
