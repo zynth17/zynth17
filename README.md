@@ -127,6 +127,9 @@
 </table>
 <br/>
 <h3>✈️ My Journey Stats</h3>
+
+<!--START_SECTION:activity-->
+
 <a href="https://github.com/zynth17">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zynth17&theme=tokyonight&show_icons=true" align="left" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynth17&theme=tokyonight&layout=compact" />
