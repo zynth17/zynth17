@@ -157,6 +157,8 @@
 <br/>
 <h3>✈️ My Journey Stats</h3>
 
+![profile-3d](https://raw.githubusercontent.com/zynth17/zynth17/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 |  |  |
 |--|--|
 | [![trophy](https://github-profile-trophy.vercel.app/?username=zynth17)](https://github.com/ryo-ma/github-profile-trophy)   |  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zynth17)  |
