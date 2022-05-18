@@ -132,7 +132,15 @@
 <br/>
 <h3>✈️ My Journey Stats</h3>
 
-<!--START_SECTION:activity-->
+[![trophy](https://github-profile-trophy.vercel.app/?username=zynth17)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zynth17)  
+
+![GitHub metrics](https://metrics.lecoq.io/zynth17)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zynth17)  
+
+[![Christopher Reeve StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=11934267)](https://stackoverflow.com/users/11934267/christopher-reeve)
 
 <a href="https://github.com/zynth17">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=zynth17&theme=tokyonight&show_icons=true" align="left" />
