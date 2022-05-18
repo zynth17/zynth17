@@ -24,11 +24,17 @@
 - 🌱 &nbsp; Enthusiast in developing an interactive and beautiful User Interface .
 -  &nbsp;🇰🇷  &nbsp; Love Korean stuff and i'm a proud WIZ&#42;ONE a fans of korean girlgrup named IZ&#42;ONE.
 
+
 <br/>
+<hr/>
 <h3>Spotify Activity</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zynth17&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zynth17&redirect=true)
+<hr/>
 
+<!--START_SECTION:activity-->
+
+</hr/>
 <br/>
 <h3>💻 My Tech Stack</h3>
 
