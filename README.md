@@ -16,7 +16,7 @@
 <br/>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3>About Me </h3>
+<h3> 🍜 About Me </h3>
 
 - ❤️ &nbsp; Exploring new technologies and frontend stack.
 - 🎓 &nbsp; Studying Computer Science, and UI/UX design.
@@ -27,10 +27,12 @@
 
 <br/>
 <hr/>
-<h3>Spotify Activity</h3>
+<h3> 🎵 Spotify Activity</h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zynth17&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=zynth17&redirect=true)
 <hr/>
+
+<h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4684](https://github.com/pnpm/pnpm/issues/4684) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
@@ -45,7 +47,7 @@
 10. 🗣 Commented on [#1188](https://github.com/johnsoncodehk/volar/issues/1188) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
 <!--END_SECTION:activity-->
 
-</hr/>
+<hr/>
 <br/>
 <h3>💻 My Tech Stack</h3>
 
