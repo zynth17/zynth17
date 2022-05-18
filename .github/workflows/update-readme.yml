@@ -11,6 +11,11 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate-snake-game-from-github-contribution-grid
+      - uses: Platane/snk@v2.0.0-rc.2
+      
+      # generates recent github activity
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         env:
