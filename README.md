@@ -1,4 +1,10 @@
+
 ### Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> I'm Reeve 😎
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
+
+![github-header-image](https://user-images.githubusercontent.com/45350572/168953030-e1ec12aa-c864-4d32-9000-66168efaecc8.png)
+
 ##### Made with ❤️ by [Christopher Reeve](https://github.com/zynth17)
 <hr/>
 
@@ -131,6 +137,7 @@
 </table>
 <br/>
 <h3>✈️ My Journey Stats</h3>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zynth17)](https://github.com/ryo-ma/github-profile-trophy)
 
