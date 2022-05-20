@@ -37,12 +37,12 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#76](https://github.com/MatteoGabriele/vue-progressive-image/issues/76) in [MatteoGabriele/vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image)
 2. 🗣 Commented on [#76](https://github.com/MatteoGabriele/vue-progressive-image/issues/76) in [MatteoGabriele/vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image)
-3. 🗣 Commented on [#1746](https://github.com/twilio/twilio-video.js/issues/1746) in [twilio/twilio-video.js](https://github.com/twilio/twilio-video.js)
-4. 🗣 Commented on [#4684](https://github.com/pnpm/pnpm/issues/4684) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-5. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+3. 🗣 Commented on [#76](https://github.com/MatteoGabriele/vue-progressive-image/issues/76) in [MatteoGabriele/vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image)
+4. 🗣 Commented on [#1746](https://github.com/twilio/twilio-video.js/issues/1746) in [twilio/twilio-video.js](https://github.com/twilio/twilio-video.js)
+5. 🗣 Commented on [#4684](https://github.com/pnpm/pnpm/issues/4684) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
 6. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-7. 💪 Opened PR [#374](https://github.com/antfu/unplugin-vue-components/pull/374) in [antfu/unplugin-vue-components](https://github.com/antfu/unplugin-vue-components)
-8. 🗣 Commented on [#38](https://github.com/antfu/vue-starport/issues/38) in [antfu/vue-starport](https://github.com/antfu/vue-starport)
+7. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+8. 💪 Opened PR [#374](https://github.com/antfu/unplugin-vue-components/pull/374) in [antfu/unplugin-vue-components](https://github.com/antfu/unplugin-vue-components)
 9. ❗️ Opened issue [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
 10. 🗣 Commented on [#1188](https://github.com/johnsoncodehk/volar/issues/1188) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
 <!--END_SECTION:activity-->
