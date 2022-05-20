@@ -35,13 +35,13 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1746](https://github.com/twilio/twilio-video.js/issues/1746) in [twilio/twilio-video.js](https://github.com/twilio/twilio-video.js)
-2. 🗣 Commented on [#4684](https://github.com/pnpm/pnpm/issues/4684) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-3. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+1. 🗣 Commented on [#76](https://github.com/MatteoGabriele/vue-progressive-image/issues/76) in [MatteoGabriele/vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image)
+2. 🗣 Commented on [#1746](https://github.com/twilio/twilio-video.js/issues/1746) in [twilio/twilio-video.js](https://github.com/twilio/twilio-video.js)
+3. 🗣 Commented on [#4684](https://github.com/pnpm/pnpm/issues/4684) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
 4. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-5. 💪 Opened PR [#374](https://github.com/antfu/unplugin-vue-components/pull/374) in [antfu/unplugin-vue-components](https://github.com/antfu/unplugin-vue-components)
-6. 🗣 Commented on [#38](https://github.com/antfu/vue-starport/issues/38) in [antfu/vue-starport](https://github.com/antfu/vue-starport)
-7. ❗️ Closed issue [#118](https://github.com/fawmi/vue-google-maps/issues/118) in [fawmi/vue-google-maps](https://github.com/fawmi/vue-google-maps)
+5. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
+6. 💪 Opened PR [#374](https://github.com/antfu/unplugin-vue-components/pull/374) in [antfu/unplugin-vue-components](https://github.com/antfu/unplugin-vue-components)
+7. 🗣 Commented on [#38](https://github.com/antfu/vue-starport/issues/38) in [antfu/vue-starport](https://github.com/antfu/vue-starport)
 8. ❗️ Opened issue [#118](https://github.com/fawmi/vue-google-maps/issues/118) in [fawmi/vue-google-maps](https://github.com/fawmi/vue-google-maps)
 9. ❗️ Opened issue [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
 10. 🗣 Commented on [#1188](https://github.com/johnsoncodehk/volar/issues/1188) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
