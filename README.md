@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#76](https://github.com/MatteoGabriele/vue-progressive-image/issues/76) in [MatteoGabriele/vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image)
-2. 🗣 Commented on [#76](https://github.com/MatteoGabriele/vue-progressive-image/issues/76) in [MatteoGabriele/vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image)
-3. 🗣 Commented on [#76](https://github.com/MatteoGabriele/vue-progressive-image/issues/76) in [MatteoGabriele/vue-progressive-image](https://github.com/MatteoGabriele/vue-progressive-image)
-4. 🗣 Commented on [#1746](https://github.com/twilio/twilio-video.js/issues/1746) in [twilio/twilio-video.js](https://github.com/twilio/twilio-video.js)
-5. 🗣 Commented on [#4684](https://github.com/pnpm/pnpm/issues/4684) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-6. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-7. 🗣 Commented on [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-8. 💪 Opened PR [#374](https://github.com/antfu/unplugin-vue-components/pull/374) in [antfu/unplugin-vue-components](https://github.com/antfu/unplugin-vue-components)
-9. ❗️ Opened issue [#27](https://github.com/tim-hub/obsidian-bible-reference/issues/27) in [tim-hub/obsidian-bible-reference](https://github.com/tim-hub/obsidian-bible-reference)
-10. 🗣 Commented on [#1188](https://github.com/johnsoncodehk/volar/issues/1188) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
+1. 🎉 Merged PR [#15](https://github.com/zynth17/vitailse/pull/15) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+2. 🎉 Merged PR [#14](https://github.com/zynth17/vitailse/pull/14) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+3. 🎉 Merged PR [#13](https://github.com/zynth17/vitailse/pull/13) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+4. 🎉 Merged PR [#12](https://github.com/zynth17/vitailse/pull/12) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+5. 🎉 Merged PR [#11](https://github.com/zynth17/vitailse/pull/11) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+6. 🎉 Merged PR [#16](https://github.com/zynth17/vitailse/pull/16) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+7. 🎉 Merged PR [#10](https://github.com/zynth17/vitailse/pull/10) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+8. 🎉 Merged PR [#17](https://github.com/zynth17/vitailse/pull/17) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+9. 🎉 Merged PR [#18](https://github.com/zynth17/vitailse/pull/18) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+10. 🎉 Merged PR [#9](https://github.com/zynth17/vitailse/pull/9) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
 <!--END_SECTION:activity-->
 
 <hr/>
