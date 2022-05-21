@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/zynth17/vitailse/pull/15) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-2. 🎉 Merged PR [#14](https://github.com/zynth17/vitailse/pull/14) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-3. 🎉 Merged PR [#13](https://github.com/zynth17/vitailse/pull/13) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-4. 🎉 Merged PR [#12](https://github.com/zynth17/vitailse/pull/12) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-5. 🎉 Merged PR [#11](https://github.com/zynth17/vitailse/pull/11) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-6. 🎉 Merged PR [#16](https://github.com/zynth17/vitailse/pull/16) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-7. 🎉 Merged PR [#10](https://github.com/zynth17/vitailse/pull/10) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-8. 🎉 Merged PR [#17](https://github.com/zynth17/vitailse/pull/17) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-9. 🎉 Merged PR [#18](https://github.com/zynth17/vitailse/pull/18) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-10. 🎉 Merged PR [#9](https://github.com/zynth17/vitailse/pull/9) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+1. ❗️ Closed issue [#8](https://github.com/zynth17/vitailse/issues/8) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+2. 🗣 Commented on [#8](https://github.com/zynth17/vitailse/issues/8) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+3. 🎉 Merged PR [#15](https://github.com/zynth17/vitailse/pull/15) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+4. 🎉 Merged PR [#14](https://github.com/zynth17/vitailse/pull/14) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+5. 🎉 Merged PR [#13](https://github.com/zynth17/vitailse/pull/13) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+6. 🎉 Merged PR [#12](https://github.com/zynth17/vitailse/pull/12) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+7. 🎉 Merged PR [#11](https://github.com/zynth17/vitailse/pull/11) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+8. 🎉 Merged PR [#16](https://github.com/zynth17/vitailse/pull/16) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+9. 🎉 Merged PR [#10](https://github.com/zynth17/vitailse/pull/10) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+10. 🎉 Merged PR [#17](https://github.com/zynth17/vitailse/pull/17) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
 <!--END_SECTION:activity-->
 
 <hr/>
