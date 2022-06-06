@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#59](https://github.com/Vuepic/vue-datepicker/issues/59) in [Vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker)
-2. 🎉 Merged PR [#2](https://github.com/zynth17/vue-skeleton/pull/2) in [zynth17/vue-skeleton](https://github.com/zynth17/vue-skeleton)
-3. 💪 Opened PR [#2](https://github.com/zynth17/vue-skeleton/pull/2) in [zynth17/vue-skeleton](https://github.com/zynth17/vue-skeleton)
-4. 🎉 Merged PR [#1](https://github.com/zynth17/vue-skeleton/pull/1) in [zynth17/vue-skeleton](https://github.com/zynth17/vue-skeleton)
-5. ❗️ Closed issue [#8](https://github.com/zynth17/vitailse/issues/8) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-6. 🗣 Commented on [#8](https://github.com/zynth17/vitailse/issues/8) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-7. 🎉 Merged PR [#15](https://github.com/zynth17/vitailse/pull/15) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-8. 🎉 Merged PR [#14](https://github.com/zynth17/vitailse/pull/14) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-9. 🎉 Merged PR [#13](https://github.com/zynth17/vitailse/pull/13) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
-10. 🎉 Merged PR [#12](https://github.com/zynth17/vitailse/pull/12) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+1. ❗️ Opened issue [#61](https://github.com/Vuepic/vue-datepicker/issues/61) in [Vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker)
+2. ❗️ Opened issue [#59](https://github.com/Vuepic/vue-datepicker/issues/59) in [Vuepic/vue-datepicker](https://github.com/Vuepic/vue-datepicker)
+3. 🎉 Merged PR [#2](https://github.com/zynth17/vue-skeleton/pull/2) in [zynth17/vue-skeleton](https://github.com/zynth17/vue-skeleton)
+4. 💪 Opened PR [#2](https://github.com/zynth17/vue-skeleton/pull/2) in [zynth17/vue-skeleton](https://github.com/zynth17/vue-skeleton)
+5. 🎉 Merged PR [#1](https://github.com/zynth17/vue-skeleton/pull/1) in [zynth17/vue-skeleton](https://github.com/zynth17/vue-skeleton)
+6. ❗️ Closed issue [#8](https://github.com/zynth17/vitailse/issues/8) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+7. 🗣 Commented on [#8](https://github.com/zynth17/vitailse/issues/8) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+8. 🎉 Merged PR [#15](https://github.com/zynth17/vitailse/pull/15) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+9. 🎉 Merged PR [#14](https://github.com/zynth17/vitailse/pull/14) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+10. 🎉 Merged PR [#13](https://github.com/zynth17/vitailse/pull/13) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
 <!--END_SECTION:activity-->
 
 <hr/>
