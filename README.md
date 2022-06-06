@@ -1,5 +1,5 @@
 
-### Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"> I'm Reeve 😎
+### Hi there <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px" height="30px"> I'm Reeve 😎
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+Github+profile)](https://git.io/typing-svg)
 
