@@ -164,7 +164,7 @@
 | [![trophy](https://github-profile-trophy.vercel.app/?username=zynth17)](https://github.com/ryo-ma/github-profile-trophy)   |  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=zynth17)  |
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zynth17)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zynth17&theme=react-dark)  
 
 ![contributions](https://user-images.githubusercontent.com/45350572/168953641-3220adf4-5034-4b1b-8708-14ef2459d1d0.png)
 
