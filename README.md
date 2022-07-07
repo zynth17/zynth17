@@ -37,13 +37,13 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#23](https://github.com/posva/unplugin-vue-router/issues/23) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
 2. 🗣 Commented on [#23](https://github.com/posva/unplugin-vue-router/issues/23) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-3. 🗣 Commented on [#24](https://github.com/posva/unplugin-vue-router/issues/24) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-4. 🗣 Commented on [#23](https://github.com/posva/unplugin-vue-router/issues/23) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+3. 🗣 Commented on [#23](https://github.com/posva/unplugin-vue-router/issues/23) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+4. 🗣 Commented on [#24](https://github.com/posva/unplugin-vue-router/issues/24) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
 5. 🗣 Commented on [#23](https://github.com/posva/unplugin-vue-router/issues/23) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-6. ❗️ Opened issue [#23](https://github.com/posva/unplugin-vue-router/issues/23) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-7. 🗣 Commented on [#20](https://github.com/posva/unplugin-vue-router/issues/20) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-8. ❗️ Closed issue [#12](https://github.com/posva/unplugin-vue-router/issues/12) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-9. 🗣 Commented on [#12](https://github.com/posva/unplugin-vue-router/issues/12) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+6. 🗣 Commented on [#23](https://github.com/posva/unplugin-vue-router/issues/23) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+7. ❗️ Opened issue [#23](https://github.com/posva/unplugin-vue-router/issues/23) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+8. 🗣 Commented on [#20](https://github.com/posva/unplugin-vue-router/issues/20) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+9. ❗️ Closed issue [#12](https://github.com/posva/unplugin-vue-router/issues/12) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
 10. 🗣 Commented on [#12](https://github.com/posva/unplugin-vue-router/issues/12) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
 <!--END_SECTION:activity-->
 
