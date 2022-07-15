@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3844](https://github.com/logaretm/vee-validate/issues/3844) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-2. ❗️ Opened issue [#34](https://github.com/posva/unplugin-vue-router/issues/34) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-3. ❗️ Opened issue [#3844](https://github.com/logaretm/vee-validate/issues/3844) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-4. 🗣 Commented on [#1523](https://github.com/johnsoncodehk/volar/issues/1523) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
-5. 🗣 Commented on [#29](https://github.com/posva/unplugin-vue-router/issues/29) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-6. 🗣 Commented on [#29](https://github.com/posva/unplugin-vue-router/issues/29) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-7. 🎉 Merged PR [#1](https://github.com/zynth17/unplugin-vue-router-bug-dynamic-path/pull/1) in [zynth17/unplugin-vue-router-bug-dynamic-path](https://github.com/zynth17/unplugin-vue-router-bug-dynamic-path)
+1. ❗️ Opened issue [#9135](https://github.com/vitejs/vite/issues/9135) in [vitejs/vite](https://github.com/vitejs/vite)
+2. 🗣 Commented on [#34](https://github.com/posva/unplugin-vue-router/issues/34) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+3. 🗣 Commented on [#3844](https://github.com/logaretm/vee-validate/issues/3844) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+4. ❗️ Opened issue [#34](https://github.com/posva/unplugin-vue-router/issues/34) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+5. ❗️ Opened issue [#3844](https://github.com/logaretm/vee-validate/issues/3844) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+6. 🗣 Commented on [#1523](https://github.com/johnsoncodehk/volar/issues/1523) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
+7. 🗣 Commented on [#29](https://github.com/posva/unplugin-vue-router/issues/29) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
 8. 🗣 Commented on [#29](https://github.com/posva/unplugin-vue-router/issues/29) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-9. ❗️ Opened issue [#29](https://github.com/posva/unplugin-vue-router/issues/29) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-10. 🗣 Commented on [#23](https://github.com/posva/unplugin-vue-router/issues/23) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+9. 🎉 Merged PR [#1](https://github.com/zynth17/unplugin-vue-router-bug-dynamic-path/pull/1) in [zynth17/unplugin-vue-router-bug-dynamic-path](https://github.com/zynth17/unplugin-vue-router-bug-dynamic-path)
+10. 🗣 Commented on [#29](https://github.com/posva/unplugin-vue-router/issues/29) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
 <!--END_SECTION:activity-->
 
 <hr/>
