@@ -35,15 +35,15 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#34](https://github.com/posva/unplugin-vue-router/issues/34) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-2. 🗣 Commented on [#34](https://github.com/posva/unplugin-vue-router/issues/34) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-3. ❗️ Opened issue [#9135](https://github.com/vitejs/vite/issues/9135) in [vitejs/vite](https://github.com/vitejs/vite)
-4. 🗣 Commented on [#34](https://github.com/posva/unplugin-vue-router/issues/34) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-5. 🗣 Commented on [#3844](https://github.com/logaretm/vee-validate/issues/3844) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-6. ❗️ Opened issue [#34](https://github.com/posva/unplugin-vue-router/issues/34) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-7. ❗️ Opened issue [#3844](https://github.com/logaretm/vee-validate/issues/3844) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-8. 🗣 Commented on [#1523](https://github.com/johnsoncodehk/volar/issues/1523) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
-9. 🗣 Commented on [#29](https://github.com/posva/unplugin-vue-router/issues/29) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+1. 🗣 Commented on [#2634](https://github.com/vitejs/vite/issues/2634) in [vitejs/vite](https://github.com/vitejs/vite)
+2. ❗️ Closed issue [#34](https://github.com/posva/unplugin-vue-router/issues/34) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+3. 🗣 Commented on [#34](https://github.com/posva/unplugin-vue-router/issues/34) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+4. ❗️ Opened issue [#9135](https://github.com/vitejs/vite/issues/9135) in [vitejs/vite](https://github.com/vitejs/vite)
+5. 🗣 Commented on [#34](https://github.com/posva/unplugin-vue-router/issues/34) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+6. 🗣 Commented on [#3844](https://github.com/logaretm/vee-validate/issues/3844) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+7. ❗️ Opened issue [#34](https://github.com/posva/unplugin-vue-router/issues/34) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+8. ❗️ Opened issue [#3844](https://github.com/logaretm/vee-validate/issues/3844) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
+9. 🗣 Commented on [#1523](https://github.com/johnsoncodehk/volar/issues/1523) in [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar)
 10. 🗣 Commented on [#29](https://github.com/posva/unplugin-vue-router/issues/29) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
 <!--END_SECTION:activity-->
 
