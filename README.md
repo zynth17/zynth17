@@ -35,16 +35,16 @@
 <h3> ⚡ Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/posva/unplugin-vue-router/issues/12) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-2. 🗣 Commented on [#474](https://github.com/tailwindlabs/headlessui/issues/474) in [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)
-3. 🗣 Commented on [#474](https://github.com/tailwindlabs/headlessui/issues/474) in [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui)
-4. 🗣 Commented on [#2634](https://github.com/vitejs/vite/issues/2634) in [vitejs/vite](https://github.com/vitejs/vite)
-5. ❗️ Closed issue [#34](https://github.com/posva/unplugin-vue-router/issues/34) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-6. 🗣 Commented on [#34](https://github.com/posva/unplugin-vue-router/issues/34) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-7. ❗️ Opened issue [#9135](https://github.com/vitejs/vite/issues/9135) in [vitejs/vite](https://github.com/vitejs/vite)
-8. 🗣 Commented on [#34](https://github.com/posva/unplugin-vue-router/issues/34) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
-9. 🗣 Commented on [#3844](https://github.com/logaretm/vee-validate/issues/3844) in [logaretm/vee-validate](https://github.com/logaretm/vee-validate)
-10. ❗️ Opened issue [#34](https://github.com/posva/unplugin-vue-router/issues/34) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
+1. ❌ Closed PR [#66](https://github.com/zynth17/vitailse/pull/66) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+2. ❌ Closed PR [#68](https://github.com/zynth17/vitailse/pull/68) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+3. ❌ Closed PR [#67](https://github.com/zynth17/vitailse/pull/67) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+4. ❌ Closed PR [#65](https://github.com/zynth17/vitailse/pull/65) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+5. ❌ Closed PR [#62](https://github.com/zynth17/vitailse/pull/62) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+6. ❌ Closed PR [#64](https://github.com/zynth17/vitailse/pull/64) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+7. ❌ Closed PR [#35](https://github.com/zynth17/vitailse/pull/35) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+8. ❌ Closed PR [#63](https://github.com/zynth17/vitailse/pull/63) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+9. 🗣 Commented on [#69](https://github.com/zynth17/vitailse/issues/69) in [zynth17/vitailse](https://github.com/zynth17/vitailse)
+10. 🗣 Commented on [#12](https://github.com/posva/unplugin-vue-router/issues/12) in [posva/unplugin-vue-router](https://github.com/posva/unplugin-vue-router)
 <!--END_SECTION:activity-->
 
 <hr/>
